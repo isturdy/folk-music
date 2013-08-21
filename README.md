@@ -2,7 +2,7 @@ A collection of folk music, most with harmonies written by Ian Sturdy.
 
 ### Note on instrumentation
 
-My instrument of choice is Skip Healy's fantastic 10-hole Special model. Most should be playable on more traditional fifes, but some of the intervals may be off on instruments with poor temperament. I have no idea how these work on the flute, Irish or Bohm.
+My instrument of choice is Skip Healy's fantastic 10-hole Special model. Most should be playable on more traditional fifes, but some of the intervals may be off on instruments with poor temperament. I have no idea how these work on the flute, Irish or Boehm.
 
 ### Copyright information
 
